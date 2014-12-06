@@ -1,0 +1,28 @@
+{
+  "name": "blank-css-clearfix",
+  "version": "0.1.0",
+  "description": "clearfix helper for blank-css",
+  "main": "clearfix.css",
+  "homepage": "https://github.com/ahmedelgabri/blank-helper-clearfix",
+  "authors": [
+    "Ahmed El Gabri <ahmed@gabri.me>"
+  ],
+  "keywords": [
+    "scss",
+    "sass",
+    "css",
+    "bem",
+    "oocss",
+    "blank",
+    "blank-css",
+    "clearfix"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
